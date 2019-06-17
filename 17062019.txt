@@ -1,0 +1,6 @@
+pool-1-thread-2(15:00:07) <123> 123 entering the chat
+pool-1-thread-1(15:00:09) <321> 321 entering the chat
+pool-1-thread-1(15:00:13) <321> asd
+pool-1-thread-1(15:00:14) <321> asdqwe34qwe
+pool-1-thread-2(15:00:17) <123> safsdf
+pool-1-thread-2(15:00:18) <123> wqr
